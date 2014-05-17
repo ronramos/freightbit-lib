@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="freightbit"/>
+  <table-filter match-name="parameters"/>
+  <table-filter match-name="client"/>
+  <table-filter match-name="customers"/>
+  <table-filter match-name="contacts"/>
+  <table-filter match-name="customerrates"/>
+  <table-filter match-name="permission_user_group"/>
+  <table-filter match-name="permission"/>
+  <table-filter match-name="user"/>
+  <table-filter match-name="clients"/>
+  <table-filter match-name="parameter_bu"/>
+  <table-filter match-name="group_user"/>
+  <table-filter match-name="group"/>
+  <table-filter match-name="customeritems"/>
+  <table-filter match-name="address"/>
+</hibernate-reverse-engineering>
